@@ -1,9 +1,3 @@
-"""Dashboard CRM Olist, tiga halaman.
-
-App ini hanya membaca schema marts di olist.duckdb. Tidak ada join ke tabel
-raw dan tidak ada transformasi berat di sini.
-"""
-
 from contextlib import contextmanager
 from pathlib import Path
 
